@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map ads_combined_driver
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ads_init_t				KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+ads_run						KEYWORD2
+ads_poll					KEYWORD2
+ads_set_sample_rate			KEYWORD2
+ads_update_device_address	KEYWORD2
+ads_init					KEYWORD2
+ads_calibrate				KEYWORD2
+ads_shutdown				KEYWORD2
+ads_wake					KEYWORD2
+ads_get_dev_id						KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+ADS_CALIBRATION_STEP_T		LITERAL1
+ADS_SPS_T					LITERAL1
